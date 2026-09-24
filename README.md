@@ -38,7 +38,7 @@ The project covers:
 | **Rows** | 25,000 |
 | **Columns** | 29 |
 | **Source** | Indian E-Commerce Customer Behavior & Purchase (Kaggle) |
-| **Link** | [https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/) *(refer to dataset folder)* |
+| **Link** | [https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/kundanbedmutha/indian-e-commerce-customer-behavior-and-purchase/) *(refer to dataset folder)* |
 
 ### Column Reference
 
